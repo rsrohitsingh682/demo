@@ -31,4 +31,5 @@ if __name__ == '__main__':
     for x in data[n + 2:]:
         # replace with the call to binary_search when implemented
         print(binary_search(a, x), end = ' ')
+        # this is just for demo
     
